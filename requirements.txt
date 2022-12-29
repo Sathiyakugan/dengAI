@@ -3,3 +3,7 @@ matplotlib==3.5.1
 numpy==1.21.5
 pandas==1.4.2
 scikit_learn==1.2.0
+plotly
+chart_studio
+seaborn
+statsmodels
